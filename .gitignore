@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+.DS_Store
+myvenv
+*.egg-info
+.tox
+.pytest_cache
+logs
